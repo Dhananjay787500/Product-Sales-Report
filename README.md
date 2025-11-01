@@ -9,7 +9,7 @@ A compact Excel project that analyzes product sales transactions and visualizes 
 - Keep the repo small and fast by using Git LFS for the workbook.
 
 ## ## Preview
-![Product_Sales_Report](Product_Sales_Report%20.png)
+![Product_Sales_Report](Product_Sales_Report.png)
 
 ## Files
 
