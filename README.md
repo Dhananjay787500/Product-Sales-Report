@@ -8,6 +8,9 @@ A compact Excel project that analyzes product sales transactions and visualizes 
 - Offer a reproducible template others can adapt to their own sales tables.  
 - Keep the repo small and fast by using Git LFS for the workbook.
 
+## ## Preview
+![Product_Sales_Report](Product_Sales_Report%20.png)
+
 ## Files
 
 - Product-Sales-Report.xlsx — Source workbook containing the data table and report visuals.
